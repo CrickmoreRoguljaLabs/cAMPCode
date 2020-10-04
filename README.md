@@ -1,6 +1,8 @@
 # cAMPCode
 Code for Thornquist, Pitsch, et al.
 
+All code written by SCT (sometimes it's embarrassingly bad, but here it is).
+
 Organized into a few subsections:
 
 ## ACR_Mixture
