@@ -1,0 +1,836 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"frame",
+				"frame"
+			],
+			[
+				"NW",
+				"NW"
+			],
+			[
+				"history",
+				"historyValFrame"
+			],
+			[
+				"hist",
+				"historyFrame"
+			],
+			[
+				"row",
+				"row_size"
+			],
+			[
+				"S",
+				"S"
+			],
+			[
+				"histor",
+				"historyLabelFrame"
+			],
+			[
+				"command",
+				"command_entries"
+			],
+			[
+				"protocol",
+				"protocol_listed"
+			],
+			[
+				"W",
+				"W"
+			],
+			[
+				"window",
+				"window"
+			],
+			[
+				"button",
+				"button_dict"
+			],
+			[
+				"param",
+				"paramiko_client"
+			],
+			[
+				"add",
+				"add"
+			],
+			[
+				"times",
+				"times_of_taps"
+			],
+			[
+				"ind",
+				"ind_low"
+			],
+			[
+				"low",
+				"lower_entry2"
+			],
+			[
+				"sa",
+				"samp_entry2"
+			],
+			[
+				"data1",
+				"data1"
+			],
+			[
+				"exa",
+				"example_data1"
+			],
+			[
+				"start",
+				"start_loc"
+			],
+			[
+				"image",
+				"image"
+			],
+			[
+				"init",
+				"initialize_robotech"
+			],
+			[
+				"last_st",
+				"last_state"
+			],
+			[
+				"num",
+				"NUM_ACTIONS"
+			],
+			[
+				"pol",
+				"policy_update_counts"
+			],
+			[
+				"nest",
+				"nested_dicts_to_array"
+			],
+			[
+				"nes",
+				"nested_dicts_to_array"
+			],
+			[
+				"hi",
+				"history_length"
+			],
+			[
+				"SQN",
+				"SQN"
+			],
+			[
+				"labels",
+				"labels"
+			],
+			[
+				"imag",
+				"image_arrays"
+			],
+			[
+				"num_",
+				"num_topics"
+			],
+			[
+				"beta_",
+				"beta_prior_scale"
+			],
+			[
+				"pl",
+				"plot_objective"
+			],
+			[
+				"loss_",
+				"loss_function"
+			],
+			[
+				"doc",
+				"doc_word_counts"
+			],
+			[
+				"topic",
+				"topic_word_vectors"
+			],
+			[
+				"words",
+				"words_per_doc"
+			],
+			[
+				"theta",
+				"theta"
+			],
+			[
+				"E",
+				"E_step"
+			],
+			[
+				"beta",
+				"beta_prior_scale"
+			],
+			[
+				"LDA",
+				"LDAClassifier"
+			],
+			[
+				"word_",
+				"word_dict_lines"
+			],
+			[
+				"pre",
+				"predict_plays_from_similarity"
+			],
+			[
+				"art",
+				"artist_idxs"
+			],
+			[
+				"user",
+				"user_idxs"
+			],
+			[
+				"plays",
+				"plays_data"
+			],
+			[
+				"arti",
+				"artist_similarity_matrix"
+			],
+			[
+				"artist_idx",
+				"artist_idx"
+			],
+			[
+				"partit",
+				"partition_function"
+			],
+			[
+				"artist",
+				"artist_idx"
+			],
+			[
+				"user_",
+				"user_idxs"
+			],
+			[
+				"pla",
+				"plays_data"
+			],
+			[
+				"train",
+				"train_data"
+			],
+			[
+				"similar",
+				"similarity_matrix"
+			],
+			[
+				"simila",
+				"similarity_matrix"
+			],
+			[
+				"parti",
+				"partition_function_components"
+			],
+			[
+				"generate",
+				"generate_similarity_matrix"
+			],
+			[
+				"lo",
+				"load_user_artist_data"
+			],
+			[
+				"K",
+				"K"
+			],
+			[
+				"loss",
+				"loss"
+			],
+			[
+				"cost",
+				"cost_fn_arr"
+			],
+			[
+				"get_ini",
+				"get_initial_mean_images"
+			],
+			[
+				"l",
+				"l"
+			],
+			[
+				"get_",
+				"get_representative_images"
+			],
+			[
+				"KMean",
+				"KMeansClassifier"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"k",
+				"k"
+			],
+			[
+				"ker",
+				"kernel_function"
+			],
+			[
+				"conv",
+				"conv"
+			],
+			[
+				"y_train",
+				"y_train_hist_bins"
+			],
+			[
+				"entries",
+				"entries-class_mean"
+			],
+			[
+				"T",
+				"T"
+			],
+			[
+				"out",
+				"output_layer_size"
+			],
+			[
+				"rdk",
+				"rdkit_feature_number"
+			],
+			[
+				"RBM_learning",
+				"RBM_learning_rate_i"
+			],
+			[
+				"RBM_",
+				"RBM_n_iter"
+			],
+			[
+				"RBM",
+				"RBM_learning_rate"
+			],
+			[
+				"maxi",
+				"max_string_length"
+			],
+			[
+				"alpha",
+				"alphabet_size"
+			],
+			[
+				"p",
+				"pyplot"
+			],
+			[
+				"plot",
+				"plot_regression_curve"
+			],
+			[
+				"gri",
+				"grid_times"
+			],
+			[
+				"sin",
+				"sin_basis1"
+			],
+			[
+				"training",
+				"trainingData"
+			],
+			[
+				"ca",
+				"caffe"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"gra",
+				"grayPic"
+			],
+			[
+				"rec",
+				"rectangle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mcmc_indep.py",
+			"settings":
+			{
+				"buffer_size": 4560,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "indep_samples.py",
+			"settings":
+			{
+				"buffer_size": 1384,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					""
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (All)"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (This File Only)"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"glue",
+			"sRT2",
+			"sRT2.py",
+			"python sRT2.py",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/stephen/Desktop/FruitFly/MCMC/indep_samples.py",
+		"/Users/stephen/Desktop/Pi Control/raspberry_pi.py",
+		"/Users/stephen/pyCon.py",
+		"/Users/stephen/Desktop/Pi Control/stopwatch.py",
+		"/Users/stephen/Desktop/Pi Control/pi_control.py",
+		"/Users/stephen/Desktop/Pi Control/command_window.py",
+		"/Users/stephen/Desktop/FlyBehaviorChambers/README.md",
+		"/Users/stephen/Desktop/Pi Control/README.md",
+		"/Users/stephen/Desktop/Image_Analysis/demo_image_processing.py",
+		"/Users/stephen/Desktop/Image_Analysis/calcium/calcium_imaging.py",
+		"/Users/stephen/Desktop/FruitFly/tap.py",
+		"/Users/stephen/toy_install.py",
+		"/Users/stephen/paramikotest.py",
+		"/Users/stephen/Desktop/Image_Analysis/convert_image_style.py",
+		"/Users/stephen/Desktop/FruitFly/MCMC/jeff_prior.py",
+		"/Users/stephen/Desktop/FruitFly/MCMC/test_jeff.py",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/classiFly.py",
+		"/Users/stephen/Desktop/Image_Analysis/image_scroller.py",
+		"/Users/stephen/Desktop/CS181/cs181-s16-homework1-StephenThornquist/homework3/problem3.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical4/practical4-code/stub.py",
+		"/Users/stephen/Desktop/CS181/cs181-s16-homework1-StephenThornquist/homework5/homework5-latent.tex",
+		"/Users/stephen/Desktop/CS181/cs181-s16-homework1-StephenThornquist/homework5/problem4.py",
+		"/Users/stephen/Downloads/tsne_python/tsne.py",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/roboTechNN.py",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/train_roboTech.py",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/stream_with_robotech.py",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/sRT2.py",
+		"/Users/stephen/Desktop/FruitFly/jeff_prior.py",
+		"/Users/stephen/Desktop/FruitFly/test_jeff.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical4/practical4-code/nn_stub.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical3/play_estimator.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical2/classify_malware.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical4/practical4-code/SwingyMonkey.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical4/practical4-code/vanilla_stub.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical4/practical4-code/stub_no_storage.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical4/practical4-code/shallowQN.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical4/practical4-code/plot_results.py",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/robo_Theano.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical2/malwareNN.py",
+		"/Users/stephen/Desktop/Image_Analysis/tifffile.py",
+		"/Users/stephen/Desktop/Image_Analysis/czifile.py",
+		"/Users/stephen/Downloads/10_CZI_Zeiss_images.ipynb",
+		"/Users/stephen/Desktop/CS181/practicals/practical3/practical3.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical3/user_median.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical3/data_loader.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical3/global_median.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical3/cluster_artists_cross_Val.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical3/get_user_median.py",
+		"/Users/stephen/Desktop/CS181/cs181-s16-homework1-StephenThornquist/homework3/Perceptron.py",
+		"/Users/stephen/Desktop/CS181/cs181-s16-homework1-StephenThornquist/homework4/problem3.py",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/test_roboTech.py",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/cleanup.py",
+		"/Users/stephen/Desktop/CS181/cs181-s16-homework1-StephenThornquist/homework1/linreg.py",
+		"/Users/stephen/Desktop/CS181/cs181-s16-homework1-StephenThornquist/homework1/homework1-regression.tex",
+		"/Users/stephen/Desktop/CS181/cs181-s16-homework1-StephenThornquist/homework4/images.npy",
+		"/Users/stephen/Desktop/CS181/cs181-s16-homework1-StephenThornquist/homework2/LogisticRegression_soln.py",
+		"/Users/stephen/Desktop/CS181/cs181-s16-homework1-StephenThornquist/homework2/GaussianGenerativeModel.py",
+		"/Users/stephen/Desktop/CS181/cs181-s16-homework1-StephenThornquist/homework2/LogisticRegression.py",
+		"/Users/stephen/Desktop/CS181/cs181-s16-homework1-StephenThornquist/homework2/problem3.py",
+		"/Users/stephen/Desktop/CS181/cs181-s16-homework1-StephenThornquist/homework2/LogisticRegression_soln.pyc",
+		"/Users/stephen/Downloads/LogisticRegression_soln.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical2/batchelor_feature_extract.py",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/labels.py",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/classiFly2.py",
+		"/Users/stephen/tensorflow/MNIST Example/mnist.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical2/boostedRF.py",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/caffeTest.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical1/neural_net.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical1/practical1.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical2/sample-code.py",
+		"/Users/stephen/tensorflow/MNIST Example/input_data.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical1/fix_csvs.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical1/partitionData.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical1/testpart.py",
+		"/Users/stephen/tensorflow/MNIST Example/CNNExample.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical1/cs181-practicals/practical1/practical1_rbm_and_svm.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical1/practical1_svm.py",
+		"/Users/stephen/tensorflow/MNIST Example/ExpertCode.py",
+		"/Users/stephen/tensorflow/MNIST Example/Deep MNIST Expert.ipynb",
+		"/Users/stephen/classiFly.py",
+		"/Users/stephen/tensorflow/MNIST Example/BeginnerCode.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical1/cs181-practicals/practical1/neural_net.py",
+		"/Users/stephen/tensorflow/MNIST Example/fully_connected_feed.py",
+		"/Users/stephen/Desktop/CS181/practicals/practical1.py",
+		"/Users/stephen/tensorflow/RoboTech/demoRobo.py",
+		"/Users/stephen/testlambda.py",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/makeNets.py",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/caffe/caffe/examples/pycaffe/caffenet.py",
+		"/Users/stephen/testHaar.py",
+		"/Users/stephen/pyCaffeExperiments.py",
+		"/Users/stephen/labelsCaffe.py",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/trp2.py",
+		"/Users/stephen/buildArduino.py",
+		"/Users/stephen/arduinoGUI.py",
+		"/Users/stephen/Desktop/FruitFly/LabNotes.txt",
+		"/Users/stephen/testpxssh.py",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/pos.info",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/caffe/caffe/examples/imagenet/create_imagenet.sh",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/caffe/caffe/Makefile.config",
+		"/Users/stephen/videoAnalysisPrep.py",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/caffe/caffe/python/caffe/pycaffe.py",
+		"/Users/stephen/Desktop/FlyVideoAnalysis/terminal.glue",
+		"/Users/stephen/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/stephen/classiFly2.py",
+		"/Users/stephen/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/stephen/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/stephen/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"PI neur",
+			"R20E0",
+			"R20E09",
+			"preproc",
+			"initial",
+			"initiali",
+			"Image",
+			"ep",
+			"numpy",
+			"caffe",
+			"R61H",
+			"71C07",
+			"break"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mcmc_indep.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "indep_samples.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 125.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "mcmc.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"clas",
+				"classiFly.py"
+			],
+			[
+				"srt",
+				"sRT2.py"
+			],
+			[
+				"create_im",
+				"caffe/caffe/examples/imagenet/create_imagenet.sh"
+			],
+			[
+				"py",
+				"caffe/caffe/python/caffe/pycaffe.py"
+			],
+			[
+				"glue",
+				"terminal.glue"
+			],
+			[
+				"pos",
+				"pos.info"
+			],
+			[
+				"cl",
+				"classiFly2.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"vintage":
+		{
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
